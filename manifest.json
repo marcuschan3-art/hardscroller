@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Social Media Scroll Reducer",
+  "version": "1.1",
+  "description": "Makes it incredibly hard to scroll on YouTube, TikTok, and Instagram by decreasing the amount you scroll for a scroll",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*://*",
+        "https://*://*",
+        "https://*://*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
