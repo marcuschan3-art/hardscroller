@@ -4,7 +4,7 @@ window.addEventListener('wheel', function(e) {
     e.preventDefault(); 
     
     
-    var hardScrollAmount = e.deltaY / 30; 
+    var hardScrollAmount = e.deltaY / 40; 
     
   
     var scrollingContainer = document.scrollingElement || document.documentElement || document.body;
