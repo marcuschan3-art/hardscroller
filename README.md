@@ -15,8 +15,7 @@ Follow these steps to activate the extension in your browser:
 6. **Select the Folder:** Browse your files, select the extracted folder containing the `manifest.json` and `content.js` files, and click **Select Folder**.
 
 ## How to Test It
-* Open a new tab and head to `youtube.com`, `instagram.com`, or `tiktok.com`. Try scrolling—it will feel heavily throttled.
-* Go to any other website (like Wikipedia or Google) to verify that scrolling behaves normally.
+* Open a new tab and head to `youtube.com`, `instagram.com`, or `tiktok.com`. Try scrolling it will feel throttled.
 
 ## How to Deactivate
 Go back to `chrome://extensions/` and click the blue toggle switch on the **Social Media Scroll Hardener** card to turn it off, or click **Remove** to delete it.
