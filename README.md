@@ -14,8 +14,14 @@ Follow these steps to activate the extension in your browser:
 5. **Load the Extension:** Click the **Load unpacked** button that appears in the top-left corner.
 6. **Select the Folder:** Browse your files, select the extracted folder containing the `manifest.json` and `content.js` files, and click **Select Folder**.
 
+## HOW to make it easier or harder
+Just change the number in the content.js file where it says
+
 ## How to Test It
 * Open a new tab and head to `youtube.com`, `instagram.com`, or `tiktok.com`. Try scrolling it will feel throttled.
 
 ## How to Deactivate
 Go back to `chrome://extensions/` and click the blue toggle switch on the **Social Media Scroll Hardener** card to turn it off, or click **Remove** to delete it.
+
+CREDITS
+I did use Cursor to write the code and Gemini to debug it. Im sorry for using AI but I'm a beginer to coding and just wanted to create something slightly useful.
