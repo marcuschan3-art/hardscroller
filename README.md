@@ -15,7 +15,7 @@ Follow these steps to activate the extension in your browser:
 6. **Select the Folder:** Browse your files, select the extracted folder containing the `manifest.json` and `content.js` files, and click **Select Folder**.
 
 ## HOW to make it easier or harder
-Just change the number in the content.js file where it says
+Just change the number in the content.js file where it says "var hardScrollAmount = e.deltaY / 40;"   change the 40 to any number (lower=easier, higher=harder)
 
 ## How to Test It
 * Open a new tab and head to `youtube.com`, `instagram.com`, or `tiktok.com`. Try scrolling it will feel throttled.
